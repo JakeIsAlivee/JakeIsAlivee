@@ -21,11 +21,10 @@
   </a>
 </div>
 
-
 <p align="center">
   <a href="https://githubreadmestatsfast.vercel.app">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=jakeisalivee&show_icons=true&theme=tokyonight&count_private=true&hide_border=true">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jakeisalivee&theme=tokyonight&count_private=true&hide_border=true">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=jakeisalivee&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jakeisalivee&theme=tokyonight&count_private=true&hide_border=true" width="400">
   </a>
 </p>
 
