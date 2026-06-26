@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github-profile-trophy-tawny.vercel.app">
-   <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=jakeisalivee&theme=radical">
+   <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=jakeisalivee&theme=tokyonight&hide_border=true&count_private=true">
   </a>
 </p>
 
