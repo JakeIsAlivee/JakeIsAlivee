@@ -30,8 +30,16 @@
 
 <p align="center">
   <a href="https://github-profile-trophy-tawny.vercel.app">
+   <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=jakeisalivee&theme=radical">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-profile-trophy-tawny.vercel.app">
    <img src="https://github-profile-trophy-tawny.vercel.app/?username=jakeisalivee&theme=tokyonight&no-frame=true&no-bg=true">
   </a>
 </p>
+
+
 
 
