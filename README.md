@@ -4,6 +4,7 @@
 <!--Stats from https://githubreadmestatsfast.vercel.app and https://github-profile-trophy-tawny.vercel.app -->
 
 <h1 align="center">JakeIsAlivee</h1>
+
 <h3 align="center"><ins>THE dumbass</ins> of a coder </h3>
 <h6 align="center">Here's proof:</h6>
 
@@ -33,6 +34,12 @@
    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=jakeisalivee&theme=tokyonight&hide_border=true&count_private=true">
   </a>
 </p>
+<p align="center">
+  <a href="https://wakatime.com">
+   <img src="https://wakatime.com/badge/user/980d3a9c-fd82-45a9-baea-1ab896fabd27.svg">
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://github-profile-trophy-tawny.vercel.app">
