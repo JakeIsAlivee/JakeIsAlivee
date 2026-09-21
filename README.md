@@ -18,9 +18,27 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,windows" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vscode,windows" height="40"/>
   </a>
 </div>
+
+
+<div align="center">
+  <h6 align="center">Dev:</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" height="40"/>
+  </a>
+</div>
+
+<div align="center">
+  <h6 align="center">Beginner:</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c" height="40"/>
+  </a>
+</div>
+
+
+
 
 <p align="center">
   <a href="https://githubreadmestatsfast.vercel.app">
