@@ -33,7 +33,7 @@
 <div align="center">
   <h6 align="center">Beginner:</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" height="40"/>
+    <img src="https://skillicons.dev/icons?i=c,java" height="40"/>
   </a>
 </div>
 
